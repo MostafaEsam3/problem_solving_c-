@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1703155904 source:d:\iti\oop\assignments\lab6_q1\main.cpp
+	<iostream>
+	"Shape.h"
+	"Square.h"
+	"Circle.h"
+	"Rectangle.h"
+
+1703155504 d:\iti\oop\assignments\lab6_q1\include\shape.h
+
+1703154672 d:\iti\oop\assignments\lab6_q1\include\square.h
+
+1703154708 d:\iti\oop\assignments\lab6_q1\include\circle.h
+
+1703154918 d:\iti\oop\assignments\lab6_q1\include\rectangle.h
+

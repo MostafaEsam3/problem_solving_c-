@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\Line.h(23,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+  Rectangle.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
